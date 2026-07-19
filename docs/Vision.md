@@ -1,5 +1,17 @@
 # ARIA Vision
 
+## Product Structure
+
+ARIA is the overall application and adaptive learning framework.
+
+Learners do not speak directly with ARIA as a character. Instead, ARIA powers the learning experience behind the scenes, including pacing, progression, memory, language support, and conversation rules.
+
+Maeve is the first conversational character within ARIA. She is the female barkeep in the Gaeilge learning experience and serves as the learner's initial guide.
+
+The Irish pub is the first learning environment. Future languages may use different settings and characters while continuing to use the same ARIA framework.
+
+---
+
 ## Purpose
 
 ARIA is an AI-powered language immersion platform that teaches languages through natural conversation, meaningful relationships, and contextual experiences rather than traditional lessons and memorization.
