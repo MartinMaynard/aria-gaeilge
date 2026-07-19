@@ -94,3 +94,9 @@ In Version 0.1, Maeve only needs to:
 - Allow replay and slower playback.
 - Accept typed responses.
 - Respond with one short conversational sentence.
+
+---
+Version: 0.1
+Status: Draft
+Last Updated: 2026-07-19
+Owner: Martin Maynard
