@@ -67,3 +67,9 @@ ARIA gradually reduces support as confidence and comprehension increase, allowin
 Enable a learner to have a simple, enjoyable conversation with Maeve in an Irish pub using gradual immersion, audio support, and adaptive assistance.
 
 If the learner finishes the conversation wanting to return tomorrow, Version 0.1 is successful.
+
+---
+Version: 0.1
+Status: Draft
+Last Updated: 2026-07-19
+Owner: Martin Maynard
