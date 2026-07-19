@@ -106,3 +106,9 @@ A successful exchange should leave the learner:
 - Knowing what to do next
 - Willing to respond
 - Confident enough to continue
+
+---
+Version: 0.1
+Status: Draft
+Last Updated: 2026-07-19
+Owner: Martin Maynard
