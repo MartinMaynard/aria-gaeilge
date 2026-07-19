@@ -155,3 +155,9 @@ The learner should finish each conversation feeling:
 - Motivated to return
 
 The goal is for learners to look forward to visiting Maeve again rather than feeling they have completed another lesson.
+
+---
+Version: 0.1
+Status: Draft
+Last Updated: 2026-07-19
+Owner: Martin Maynard
